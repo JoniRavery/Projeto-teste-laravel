@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\projeto-teste",
+    "\\projeto-teste\\app",
+    "\\projeto-teste\\app\\Http",
+    "\\projeto-teste\\app\\Http\\Controllers",
+    "\\projeto-teste\\resources",
+    "\\projeto-teste\\resources\\views"
+  ],
+  "SelectedNode": "\\projeto-teste\\resources\\views\\detalhes.blade.php",
+  "PreviewInSolutionExplorer": false
+}
